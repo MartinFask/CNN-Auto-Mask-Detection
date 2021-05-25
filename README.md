@@ -1,4 +1,4 @@
-# CV_project 
+# Computer Vision Project
 
 # Running with pretrained models
 

@@ -2,6 +2,8 @@
 
 # Running with pretrained models
 
+Datasets are not included in this repository.
+
 Creating virtual environment using VirtualEnv:
 ```bash 
 virtualenv -p python3 ./

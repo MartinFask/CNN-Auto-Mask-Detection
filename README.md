@@ -1,8 +1,8 @@
 # Computer Vision Project
 
-# Running with pretrained models
-
 Datasets are not included in this repository.
+
+# Running with pretrained models
 
 Creating virtual environment using VirtualEnv:
 ```bash 

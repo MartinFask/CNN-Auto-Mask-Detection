@@ -14,7 +14,6 @@ BS = 32  # Batch size
 
 
 # ---------------------------------------------------------------
-# Elie's stuff with some comment added to that. Didn't change his.
 
 
 def train_and_test_model(data, labels, save_path=None):
